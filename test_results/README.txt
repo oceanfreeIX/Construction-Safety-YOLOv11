@@ -3,7 +3,6 @@
 测试数据集: construction_dataset/val/images
 测试图片数量: 20
 检测到目标总数: 5
-
 各类别检测数量:
   worker: 3
   vest: 1
