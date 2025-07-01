@@ -1,0 +1,18 @@
+# 基础忽略
+__pycache__/
+*.pyc
+.DS_Store
+
+# 数据文件
+datasets/
+*.zip
+*.tar
+
+# 大文件
+runs/
+*.pt
+*.pth
+
+# 环境相关
+.venv/
+env/

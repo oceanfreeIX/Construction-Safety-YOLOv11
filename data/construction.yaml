@@ -1,0 +1,10 @@
+path: ./construction_dataset/
+train: train/images
+val: val/images
+
+nc: 4
+names:
+  0: 'worker'
+  1: 'helmet'
+  2: 'without_helmet'
+  3: 'vest'
