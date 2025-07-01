@@ -1,14 +1,12 @@
-Ê©¹¤°²È«¼ì²âÄ£ĞÍ²âÊÔ½á¹û
-==============================
+æ–½å·¥å®‰å…¨æ£€æµ‹æ¨¡å‹æµ‹è¯•ç»“æœ:
+æ¨¡å‹è·¯å¾„: runs/train/yolov11_construction/weights/best.pt
+æµ‹è¯•æ•°æ®é›†: construction_dataset/val/images
+æµ‹è¯•å›¾ç‰‡æ•°é‡: 20
+æ£€æµ‹åˆ°ç›®æ ‡æ€»æ•°: 5
 
-Ä£ĞÍÂ·¾¶: runs/train/yolov11_construction/weights/best.pt
-²âÊÔÊı¾İ¼¯: construction_dataset/val/images
-²âÊÔÍ¼Æ¬ÊıÁ¿: 20
-¼ì²âµ½Ä¿±ê×ÜÊı: 5
-
-¸÷Àà±ğ¼ì²âÊıÁ¿:
+å„ç±»åˆ«æ£€æµ‹æ•°é‡:
   worker: 3
   vest: 1
   without_helmet: 1
 
-½á¹ûÍ¼Æ¬±£´æÔÚµ±Ç°Ä¿Â¼
+ç»“æœå›¾ç‰‡ä¿å­˜åœ¨å½“å‰ç›®å½•
